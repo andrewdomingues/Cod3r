@@ -5,5 +5,6 @@ const subtracao = d - b
 const multiplicacao = a * b
 const divisao = d / a
 const modulo = a % 2
+const exponenciacao = a ** b
 
-console.log(soma, subtracao, multiplicacao, divisao, modulo)
+console.log(soma, subtracao, multiplicacao, divisao, modulo, exponenciacao)
